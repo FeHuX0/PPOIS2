@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "card": {
+    "card_number": "1234567812345678",
+    "pin_code": "1234",
+    "bank": {
+      "name": "POIS Bank",
+      "bic": "POISRU01"
+    },
+    "owner": {
+      "full_name": "Ivan Ivanov",
+      "owner_id": "USR-001"
+    },
+    "limits": {
+      "withdrawal_limit": "1000.00",
+      "payment_limit": "1500.00"
+    },
+    "balance": "15555.00",
+    "status": "active",
+    "transactions": [
+      {
+        "transaction_id": "8398f35492604cca829d4a89846f3412",
+        "timestamp": "2026-02-23T13:26:22.095343+00:00",
+        "transaction_type": "deposit",
+        "amount": "5555.00",
+        "balance_after": "15555.00",
+        "description": "Cash deposit"
+      },
+      {
+        "transaction_id": "5c4af136933f445d983b987f06a62059",
+        "timestamp": "2026-02-23T13:27:27.320792+00:00",
+        "transaction_type": "balance_check",
+        "amount": "0.00",
+        "balance_after": "15555.00",
+        "description": "Balance check"
+      },
+      {
+        "transaction_id": "4802801efe9d4c67b67fa4c5fbab4365",
+        "timestamp": "2026-02-24T07:33:21.340868+00:00",
+        "transaction_type": "balance_check",
+        "amount": "0.00",
+        "balance_after": "15555.00",
+        "description": "Balance check"
+      }
+    ]
+  }
+}
