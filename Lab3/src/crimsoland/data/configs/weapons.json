@@ -1,0 +1,50 @@
+{
+  "pistol": {
+    "label": "Pistol",
+    "damage": 18,
+    "cooldown_ms": 260,
+    "bullet_speed": 540,
+    "spread_deg": 0,
+    "projectiles_per_shot": 1,
+    "max_range": 420,
+    "bullet_radius": 4,
+    "bullet_color": [
+      255,
+      222,
+      120
+    ],
+    "sound": "pistol"
+  },
+  "shotgun": {
+    "label": "Shotgun",
+    "damage": 12,
+    "cooldown_ms": 760,
+    "bullet_speed": 500,
+    "spread_deg": 26,
+    "projectiles_per_shot": 6,
+    "max_range": 300,
+    "bullet_radius": 4,
+    "bullet_color": [
+      255,
+      170,
+      92
+    ],
+    "sound": "shotgun"
+  },
+  "smg": {
+    "label": "SMG",
+    "damage": 8,
+    "cooldown_ms": 95,
+    "bullet_speed": 620,
+    "spread_deg": 10,
+    "projectiles_per_shot": 1,
+    "max_range": 360,
+    "bullet_radius": 3,
+    "bullet_color": [
+      173,
+      227,
+      255
+    ],
+    "sound": "smg"
+  }
+}

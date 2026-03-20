@@ -1,0 +1,97 @@
+{
+  "walker": {
+    "label": "Walker",
+    "behavior": "walker",
+    "radius": 14,
+    "health": 28,
+    "speed": 84,
+    "damage": 10,
+    "reward": 10,
+    "attack_range": 0,
+    "attack_cooldown_ms": 900,
+    "contact_cooldown_ms": 700,
+    "projectile_speed": 0,
+    "projectile_damage": 0,
+    "color": [
+      184,
+      70,
+      70
+    ]
+  },
+  "runner": {
+    "label": "Runner",
+    "behavior": "runner",
+    "radius": 12,
+    "health": 16,
+    "speed": 150,
+    "damage": 12,
+    "reward": 14,
+    "attack_range": 0,
+    "attack_cooldown_ms": 650,
+    "contact_cooldown_ms": 500,
+    "projectile_speed": 0,
+    "projectile_damage": 0,
+    "color": [
+      232,
+      124,
+      68
+    ]
+  },
+  "tank": {
+    "label": "Tank",
+    "behavior": "tank",
+    "radius": 18,
+    "health": 68,
+    "speed": 58,
+    "damage": 22,
+    "reward": 30,
+    "attack_range": 0,
+    "attack_cooldown_ms": 1000,
+    "contact_cooldown_ms": 900,
+    "projectile_speed": 0,
+    "projectile_damage": 0,
+    "color": [
+      126,
+      68,
+      48
+    ]
+  },
+  "shooter": {
+    "label": "Shooter",
+    "behavior": "shooter",
+    "radius": 13,
+    "health": 24,
+    "speed": 82,
+    "damage": 8,
+    "reward": 20,
+    "attack_range": 240,
+    "attack_cooldown_ms": 1100,
+    "contact_cooldown_ms": 700,
+    "projectile_speed": 250,
+    "projectile_damage": 10,
+    "color": [
+      148,
+      102,
+      212
+    ]
+  },
+  "kamikaze": {
+    "label": "Kamikaze",
+    "behavior": "kamikaze",
+    "radius": 12,
+    "health": 20,
+    "speed": 112,
+    "damage": 28,
+    "reward": 22,
+    "attack_range": 120,
+    "attack_cooldown_ms": 800,
+    "contact_cooldown_ms": 550,
+    "projectile_speed": 0,
+    "projectile_damage": 0,
+    "color": [
+      240,
+      220,
+      90
+    ]
+  }
+}

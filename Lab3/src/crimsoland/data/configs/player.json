@@ -1,0 +1,12 @@
+{
+  "radius": 16,
+  "max_hp": 100,
+  "speed": 260,
+  "color": [
+    86,
+    200,
+    126
+  ],
+  "invulnerability_ms": 350,
+  "start_weapon": "pistol"
+}

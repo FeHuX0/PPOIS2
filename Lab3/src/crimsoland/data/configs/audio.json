@@ -1,0 +1,14 @@
+{
+  "music": {
+    "menu": "audio/menu.wav",
+    "game": "audio/game.wav"
+  },
+  "sounds": {
+    "pistol": "audio/pistol.wav",
+    "shotgun": "audio/shotgun.wav",
+    "smg": "audio/smg.wav",
+    "enemy_shot": "audio/enemy_shot.wav"
+  },
+  "music_volume": 0.25,
+  "sfx_volume": 0.4
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Crimsoland",
+  "window": {
+    "width": 960,
+    "height": 540,
+    "fps": 60
+  },
+  "arena": {
+    "width": 960,
+    "height": 540,
+    "spawn_margin": 28
+  },
+  "ui": {
+    "font_name": null,
+    "font_size": 28,
+    "small_font_size": 20,
+    "background_color": [
+      18,
+      18,
+      24
+    ],
+    "grid_color": [
+      34,
+      34,
+      46
+    ],
+    "text_color": [
+      235,
+      235,
+      238
+    ],
+    "accent_color": [
+      220,
+      85,
+      85
+    ],
+    "panel_color": [
+      36,
+      36,
+      52
+    ],
+    "player_hud_color": [
+      86,
+      200,
+      126
+    ]
+  },
+  "rules": {
+    "wave_break_ms": 1400,
+    "wave_bonus_score": 50
+  },
+  "highscores": {
+    "limit": 10,
+    "name_max_length": 12
+  }
+}
